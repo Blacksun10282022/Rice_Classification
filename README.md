@@ -69,10 +69,7 @@ jupyter notebook notebooks/a1-set2-group44.ipynb
 3. **Pre-commit**: `ruff`, `black`, `isort`.  
 4. **CI**: GitHub Actions — run tests on push; add a status badge here.  
 5. **Dataset Card**: source/license/fields/collection process; add a citation.  
-6. **Model Card**: what’s optimized, metrics, limitations, responsible AI notes.
- 
-## 👥 Credits
-- Group 44 — please list each teammate’s role (e.g., data prep, modeling, evaluation, report).
+6. **Model Card**: what’s optimized, metrics, limitations, responsible AI notes. 
  
 ## 📄 License
 MIT — see `LICENSE`.
